@@ -31,6 +31,3 @@ session_start();
 </html>
 <?php
 
-echo '<pre>';
-echo print_r($_SESSION, true) ;
-echo '</pre>';
